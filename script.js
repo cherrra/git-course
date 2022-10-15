@@ -1,2 +1,2 @@
 alert('Hello Git');
-consol.log("Test2!!!!!!");
+consol.log("Test2!!");
